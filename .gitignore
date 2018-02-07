@@ -1,0 +1,5 @@
+# use glob syntax.
+syntax: glob
+dist/
+build/
+/pymultiprocessing/*.pyc
